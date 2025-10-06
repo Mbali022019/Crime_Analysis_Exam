@@ -25,9 +25,23 @@ This project explores the relationship between socio-economic indicators and cri
 - **Time Series Forecasting:** Crime trend forecasting with ARIMA including confidence intervals.
 - **User-Friendly Summaries:** Both technical metrics and non-technical explanations.
 
-## Installation
+##South Africa Crime Analysis Dashboard
 
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/sa-crime-analysis.git
-   cd sa-crime-analysis
+A Streamlit app that analyzes the relationship between crime and socio-economic indicators in South Africa.
+Provides interactive data exploration, machine learning classification, time series forecasting, and clear summaries with a modern glassmorphic blue & yellow theme.
+
+Features
+
+Upload your own Crime and Socio-Economic datasets (CSV) for analysis
+
+Filter data by Crime Category, Province, and Year Range
+
+Interactive Exploratory Data Analysis with trend lines, bar charts, and correlation heatmaps
+
+Classification of crime hotspots using Random Forest and Logistic Regression with detailed reports and confusion matrices
+
+Time series forecasting with 3-year predictions and confidence intervals
+
+Separate technical and non-technical summaries for insights and recommendations
+
+Modern blue & yellow glassmorphic theme with smooth U
